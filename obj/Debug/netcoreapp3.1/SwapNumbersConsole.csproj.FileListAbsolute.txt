@@ -1,0 +1,11 @@
+C:\Users\Ankita\Source\Repos\SwapNumbersConsole\SwapNumbersConsole\bin\Debug\netcoreapp3.1\SwapNumbersConsole.exe
+C:\Users\Ankita\Source\Repos\SwapNumbersConsole\SwapNumbersConsole\bin\Debug\netcoreapp3.1\SwapNumbersConsole.deps.json
+C:\Users\Ankita\Source\Repos\SwapNumbersConsole\SwapNumbersConsole\bin\Debug\netcoreapp3.1\SwapNumbersConsole.runtimeconfig.json
+C:\Users\Ankita\Source\Repos\SwapNumbersConsole\SwapNumbersConsole\bin\Debug\netcoreapp3.1\SwapNumbersConsole.runtimeconfig.dev.json
+C:\Users\Ankita\Source\Repos\SwapNumbersConsole\SwapNumbersConsole\bin\Debug\netcoreapp3.1\SwapNumbersConsole.dll
+C:\Users\Ankita\Source\Repos\SwapNumbersConsole\SwapNumbersConsole\bin\Debug\netcoreapp3.1\SwapNumbersConsole.pdb
+C:\Users\Ankita\Source\Repos\SwapNumbersConsole\SwapNumbersConsole\obj\Debug\netcoreapp3.1\SwapNumbersConsole.csprojAssemblyReference.cache
+C:\Users\Ankita\Source\Repos\SwapNumbersConsole\SwapNumbersConsole\obj\Debug\netcoreapp3.1\SwapNumbersConsole.AssemblyInfoInputs.cache
+C:\Users\Ankita\Source\Repos\SwapNumbersConsole\SwapNumbersConsole\obj\Debug\netcoreapp3.1\SwapNumbersConsole.AssemblyInfo.cs
+C:\Users\Ankita\Source\Repos\SwapNumbersConsole\SwapNumbersConsole\obj\Debug\netcoreapp3.1\SwapNumbersConsole.dll
+C:\Users\Ankita\Source\Repos\SwapNumbersConsole\SwapNumbersConsole\obj\Debug\netcoreapp3.1\SwapNumbersConsole.pdb
